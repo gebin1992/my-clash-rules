@@ -1,7 +1,6 @@
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
 DOMAIN,ebmy.as174.de
-DOMAIN,cdn.as174.de
 DOMAIN,jms1.niceduck.lol
 DOMAIN,jms2.niceduck.lol
 DOMAIN,jms1v6.niceduck.lol
