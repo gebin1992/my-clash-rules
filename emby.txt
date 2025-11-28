@@ -17,4 +17,5 @@ DOMAIN,cfloacl.emby.moe
 DOMAIN,niceduck.lol
 DOMAIN,emby.moe
 DOMAIN,tv.ash.yt
+DOMAIN,ask.ash.yt
 
