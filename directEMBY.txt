@@ -1,2 +1,3 @@
 DOMAIN,emby.cn2gias.uk
 DOMAIN,emby01.cn2gias.uk
+DOMAIN,server3.cn2gias.uk
