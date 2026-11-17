@@ -1,2 +1,3 @@
 DOMAIN,s3.array2026.com
 DOMAIN,s2.array2026.cc
+DOMAIN,std.cn2gias.uk
